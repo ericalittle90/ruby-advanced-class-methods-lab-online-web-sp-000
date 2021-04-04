@@ -42,7 +42,7 @@ class Song
   end
 
   def self.new_from_filename(name, song)
-    
-  end 
+
+  end
 
 end
